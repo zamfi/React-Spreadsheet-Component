@@ -3,7 +3,7 @@
   "description": "A Spreadsheet Component for ReactJS",
   "version": "1.0.2",
   "license": "MIT",
-  "repository": "felixrieseberg/React-Spreadsheet-Component",
+  "repository": "zamfi/React-Spreadsheet-Component",
   "maintainers": [
     {
       "name": "Felix Rieseberg",
@@ -16,7 +16,7 @@
     "mousetrap": "^1.5.3"
   },
   "peerDependencies": {
-    "react": "^15.6.0"
+    "react": "^16.2.0"
   },
   "devDependencies": {
     "babel-jest": "^21.2.0",
@@ -43,9 +43,9 @@
     "jshint-stylish": "^2.0.1",
     "minimatch": "^3.0.4",
     "multer": "^1.1.0",
-    "react": "^15.6.0",
-    "react-dom": "^15.6.0",
-    "react-test-renderer": "^15.6.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-test-renderer": "^16.2.0",
     "tape": "^4.2.2",
     "vinyl-source-stream": "^1.1.0"
   },
